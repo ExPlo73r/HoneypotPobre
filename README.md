@@ -46,6 +46,7 @@ En esta placa la OLED va cableada internamente así:
   - `By Viernez13` (firma del autor)
 
 Ejemplo de salida por el Monitor Serie:
+<img width="1528" height="1528" alt="image" src="https://github.com/user-attachments/assets/23260405-7cd3-440e-b52b-2483c69131f0" />
 
 ```text
 Conectado. IP: 192.168.1.25
